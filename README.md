@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/Danielshow/eventrock_fe.svg?branch=develop)](https://travis-ci.org/Danielshow/eventrock_fe)
+[![Coverage Status](https://coveralls.io/repos/github/Danielshow/eventrock_fe/badge.svg?branch=develop)](https://coveralls.io/github/Danielshow/eventrock_fe?branch=develop)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
