@@ -1,13 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1078" viewBox="0 0 1920 1078">
-  <defs>
-    <clipPath id="clip-Home_page_1">
-      <rect width="1920" height="1078"/>
-    </clipPath>
-  </defs>
-  <g id="Home_page_1" data-name="Home page – 1" clip-path="url(#clip-Home_page_1)">
-    <rect width="1920" height="1078" fill="#fff"/>
-    <path id="Path_4" data-name="Path 4" d="M1264.183,189.266C1436.974,53.011,1329.234-55.628,1506.1,53.011s146.01,426.079,312.238,216.516S1969.586-190.952,2126.294,18.2s312.849,230.147,120.147,365.357,78.7,417.625-288.621,250.674-235.909,252.63-480.467,38.09S997.7,905.311,1048.484,620.365s331.148-109.791,244.466-225.5S911.39,373.7,1048.484,269.527,1264.183,189.266,1264.183,189.266Z" transform="translate(-647.155 169)" fill="rgba(47,220,115,0.04)" stroke="rgba(112,112,112,0)" stroke-width="1"/>
-    <path id="Path_5" data-name="Path 5" d="M690,200.625c132.211-36.555,47.063,10.578,170.875,0s148.164,9.969,124.1,111.7-203.07-25.937-142.266,55.156S891.273,483,814.6,534.7,690,550.234,690,550.234Z" transform="translate(-689 120)" fill="rgba(0,93,237,0.06)" stroke="rgba(112,112,112,0)" stroke-width="1"/>
-    <path id="Path_6" data-name="Path 6" d="M2610,178.289s-164.617-66.508-130.109,77.461-122.352,54.7-57.937,162.352S2610,481.7,2610,481.7Z" transform="translate(-689 120)" fill="rgba(0,93,237,0.1)" stroke="rgba(112,112,112,0)" stroke-width="1"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1078" viewBox="0 0 1920 1078"><defs><clipPath id="clip-Home_page_1"><rect width="1920" height="1078"/></clipPath></defs><g id="Home_page_1" clip-path="url(#clip-Home_page_1)" data-name="Home page – 1"><rect width="1920" height="1078" fill="#fff"/><path id="Path_4" fill="rgba(47,220,115,0.04)" stroke="rgba(112,112,112,0)" stroke-width="1" d="M1264.183,189.266C1436.974,53.011,1329.234-55.628,1506.1,53.011s146.01,426.079,312.238,216.516S1969.586-190.952,2126.294,18.2s312.849,230.147,120.147,365.357,78.7,417.625-288.621,250.674-235.909,252.63-480.467,38.09S997.7,905.311,1048.484,620.365s331.148-109.791,244.466-225.5S911.39,373.7,1048.484,269.527,1264.183,189.266,1264.183,189.266Z" data-name="Path 4" transform="translate(-647.155 169)"/><path id="Path_5" fill="rgba(0,93,237,0.06)" stroke="rgba(112,112,112,0)" stroke-width="1" d="M690,200.625c132.211-36.555,47.063,10.578,170.875,0s148.164,9.969,124.1,111.7-203.07-25.937-142.266,55.156S891.273,483,814.6,534.7,690,550.234,690,550.234Z" data-name="Path 5" transform="translate(-689 120)"/><path id="Path_6" fill="rgba(0,93,237,0.1)" stroke="rgba(112,112,112,0)" stroke-width="1" d="M2610,178.289s-164.617-66.508-130.109,77.461-122.352,54.7-57.937,162.352S2610,481.7,2610,481.7Z" data-name="Path 6" transform="translate(-689 120)"/></g></svg>
